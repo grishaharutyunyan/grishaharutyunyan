@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<br>
+
 - 👋 Hi, I’m @grishaharutyunyan
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... 
@@ -8,7 +8,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<br><br>
+  
 
 
 ## 🌐 Socials:
