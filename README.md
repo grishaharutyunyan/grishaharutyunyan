@@ -2,9 +2,9 @@
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/grhar/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="artyom-amirkhanyan-b951b52a7" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/grhar/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="artyom-amirkhanyan-b951b52a7" height="60" width="80" /></a>
 <a href="https://t.me/gr_har" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="amirkhanyan11" height="40" width="40" /></a>
-<!-- <a href="https://www.leetcode.com/amirkhanyan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amirkhanyan11" height="30" width="40" /></a> -->
+<!-- <a href="https://www.leetcode.com/amirkhanyan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amirkhanyan11" height="60" width="80" /></a> -->
 </p>
 
 
