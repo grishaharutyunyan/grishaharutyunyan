@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer 👨🏻‍💻</h3>
 
 <!-- Contact Section -->
 <h3 align="left">📫 Contact Me:</h3>
