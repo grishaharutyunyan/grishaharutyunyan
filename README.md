@@ -5,10 +5,10 @@
 <h3 align="left">📫 Contact Me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/grhar/" target="_blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://t.me/gr_har" target="_blank">
-    <img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="Telegram" height="50" width="50" />
+    <img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="Telegram" height="30" width="40" />
   </a>
 </p>
 
