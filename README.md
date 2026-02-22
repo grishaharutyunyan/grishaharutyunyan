@@ -1,93 +1,83 @@
-# Hi there, I'm Grisha Harutyunyan 👋
+<div align="center">
 
-<p align="left">
-  <em>Software Engineer &nbsp;·&nbsp; Building clean, scalable web applications</em>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0f172a&height=250&section=header&text=Grisha%20Harutyunyan&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%B7%20Full-Stack%20Developer&descAlignY=61&descSize=18&descColor=94a3b8" width="100%" alt="Header Banner" />
+
+<!-- Animated Typing Effect -->
+<a href="https://github.com/grishaharutyunyan">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+modern+web+stacks;Crafting+cloud-native+architectures;Designing+clean,+scalable+solutions;Algorithms,+System+Design+%26+Open+Source" alt="Typing SVG" />
+</a>
+
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/grhar"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/gr_har"><img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
-
-## 👤 About Me
-
-- 💻 Passionate software engineer with experience in full-stack web development
-- 🌱 Always learning — currently exploring system design and cloud-native architectures
-- 🤝 Open to collaborating on interesting open-source projects
-- ⚡ Fun fact: I enjoy solving algorithmic puzzles in my spare time
+</div>
 
 ---
 
-## 🛠️ Languages and Tools
-
-<p align="left">
-  <a>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50" />
-  </a>
-  <a>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="Python" width="50" height="50" />
-  </a>
-  <a>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50" height="50" />
-  </a>
-  <a>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="50" height="50" />
-  </a>
-  <a>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="50" height="50" />
-  </a>
-  <a>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="Next.js" width="50" height="50" />
-  </a>
-  <a>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="50" height="50" />
-  </a>
-  <a>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="50" height="50" />
-  </a>
-  <a>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="50" height="50" />
-  </a>
-  <a>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50" height="50" />
-  </a>
-  <a>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="50" height="50" />
-  </a>
-  <a>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" width="50" height="50" />
-  </a>
-  <a>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash" width="50" height="50" />
-  </a>
-  <a>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="50" height="50" />
-  </a>
-</p>
+<table align="center" style="border: none;">
+  <tr>
+    <td align="left" width="55%" valign="top">
+      <h2 align="center">👨‍💻 About Me</h2>
+      <p>
+        Software engineer focused on <b>full-stack development</b> and <b>system design</b>. I specialize in connecting the dots between complex backend logic and seamless frontend experiences.
+      </p>
+      <p>
+        When I'm not writing code, you can find me diving into <b>algorithms</b>, contributing to <b>open source</b>, and expanding my technical horizons.
+      </p>
+    </td>
+    <td align="center" width="45%" valign="top">
+      <h2 align="center">⚡ Activity</h2>
+      <br />
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=grishaharutyunyan&theme=dracula&no-frame=true&no-bg=true&margin-w=15&row=2&column=3" alt="Trophies" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Tech Arsenal</h2>
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**project-name-1**](https://github.com/grishaharutyunyan/project-name-1) | Short description of what this project does. | `JavaScript` `React` |
-| [**project-name-2**](https://github.com/grishaharutyunyan/project-name-2) | Short description of what this project does. | `Python` `PostgreSQL` |
-| [**project-name-3**](https://github.com/grishaharutyunyan/project-name-3) | Short description of what this project does. | `Node.js` `Next.js` |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,nextjs,nodejs,postgres,mysql,py,c,linux,bash,git,github,postman&perline=14&theme=dark" alt="Tech Stack Tools" />
+</div>
 
-> ✏️ *Replace the placeholders above with your actual pinned repositories.*
+<br />
 
 ---
 
-## 📫 Contact Me
+<h2 align="center">📈 GitHub Analytics</h2>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/grhar/" target="_blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="40" width="40" />
+<div align="center">
+  <a href="https://github.com/grishaharutyunyan">
+    <img src="https://github-readme-stats.vercel.app/api?username=grishaharutyunyan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=3B82F6&title_color=3B82F6" alt="GitHub Stats" width="48%" />
   </a>
-  <a href="https://t.me/gr_har" target="_blank">
-    <img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="Telegram" height="40" width="40" />
+  <a href="https://github.com/grishaharutyunyan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grishaharutyunyan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="Top Languages" width="48%" />
   </a>
-</p>
+</div>
 
-- 🔗 LinkedIn: [linkedin.com/in/grhar](https://www.linkedin.com/in/grhar/)
-- ✈️ Telegram: [@gr_har](https://t.me/gr_har)
-- 📧 Email: `your.email@example.com` *(replace with your email)*
-- 🌐 Website: `https://your-website.com` *(replace with your site)*
+<br />
+
+<div align="center">
+  <a href="https://github.com/grishaharutyunyan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=grishaharutyunyan&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" width="97%" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <p style="color: #94a3b8; font-size: 14px; margin-top: 24px;"><em><q>Code is like humor. When you have to explain it, it's bad.</q> — Cory House</em></p>
+</div>
+
+<!-- Footer Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" alt="Footer Banner" />
+</div>
